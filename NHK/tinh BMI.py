@@ -1,0 +1,5 @@
+a = float(input("Nhập cân nặng(kg) :" ))
+b = float(input("nhập chiều cao(m) :"))
+BMI = a / (b * b)
+print(f"BMI : {BMI}")
+#print("BMI của bạn là:", round(bmi, 2))
