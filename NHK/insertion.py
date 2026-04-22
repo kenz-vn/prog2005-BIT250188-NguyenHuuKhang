@@ -8,4 +8,4 @@ def insertion_sort(arr):
         arr[j+1] = key
 arr = [64,23,43,55,76,23]
 insertion_sort(arr)
-print("insertion Sort: ",arr)
+print("insertion Sort: ",arr)]
