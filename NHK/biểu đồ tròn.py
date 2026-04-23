@@ -1,5 +1,4 @@
 from matplotlib import pyplot as plt
-
 categories = ['Excellent', 'Good', 'Average', 'Weak', 'Poor']
 values = [25, 55, 41, 30, 50]
 
